@@ -1,0 +1,10 @@
+# 캐시 및 임시 파일
+__pycache__/
+*.pyc
+
+# 이미지 및 데이터 파일
+img.jpg
+emotions/
+
+# 모델 캐시
+models/__pycache__/
